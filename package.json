@@ -1,0 +1,26 @@
+{
+  "name": "ts-to-es2015",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build && lite-server --baseDir=\"public\"",
+    "build": "tsc -p ./ && rollup -c",
+    "serve": "lite-server --baseDir=\"public\""
+  },
+  "author": "Sean G. Wright <sean@seangwright.me> (http://seangwright.me/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/handlebars": "^4.0.36",
+    "@types/node": "^8.0.25",
+    "lite-server": "^2.3.0",
+    "rollup": "^0.48.2",
+    "rollup-plugin-commonjs": "^8.2.0",
+    "rollup-plugin-node-builtins": "^2.1.2",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "typescript": "^2.4.2"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.10"
+  }
+}

@@ -1,0 +1,10 @@
+    {
+        "compilerOptions": {
+            "target": "esnext",
+            "module": "esnext",
+            "baseUrl": "src",
+            "outDir": "public",
+            "strict": true,
+            "pretty": true
+        }
+    }
