@@ -22,10 +22,10 @@ A browser with ES module support
 
 ## Resources
 
-    https://jakearchibald.com/2017/es-modules-in-browsers/
+https://jakearchibald.com/2017/es-modules-in-browsers/
 
-    http://caniuse.com/#feat=es6-module
+http://caniuse.com/#feat=es6-module
 
-    https://pawelgrzybek.com/native-ecmascript-modules-in-the-browser/
+https://pawelgrzybek.com/native-ecmascript-modules-in-the-browser/
 
-    https://youtu.be/fIP4pjAqCtQ?t=24m56s (Explaination of how to use a 'support' module)
+https://youtu.be/fIP4pjAqCtQ?t=24m56s (Explaination of how to use a 'support' module)
